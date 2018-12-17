@@ -5,7 +5,7 @@ public class Bedingung {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     boolean bool_var;
-    bool_var = false
+    bool_var = false;
     		//
     		if (bool_var == false) {
     			System.out.println("1 - Bool Var ist false");
@@ -32,13 +32,13 @@ public class Bedingung {
 		System.out.println("wahr");
 	}
 	//
-	if /true && false && true) {
+	if (true && false && true) {
 		System.out.println("nix");
 	}
 	//
 	boolean bool1 = true;
 	boolean bool2 = false;
-	boolean bool3 = true:
+	boolean bool3 = true;
 	//
 		if (bool1 && bool2 && bool3) {
 			System.out.println("alle 3 bools true");
